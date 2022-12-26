@@ -1,6 +1,6 @@
 # 💫 About Me:
-Passionate about conveying meaningful stories and influencing important business decisions, in a data-driven way. Seeking <br>opportunities where I can utilize my analytical, mathematical, and technical skills to solve real-life problems related to <br>analyzing a big volume of datasets to draw insights that can help with business decisions.
-
+<h1 align="center">Hi 👋, I'm Rohan R Salunke</h1>
+<h3 align="center">A passionate frontPassionate about conveying meaningful stories and influencing important business decisions, in a data-driven way. Seeking opportunities where I can utilize my analytical, mathematical, and technical skills to solve real-life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions.</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rohansalunke) 
