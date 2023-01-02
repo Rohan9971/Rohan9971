@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Rohan R Salunke</h1>
-<h3 align="center">Who is Passionate about conveying meaningful stories and influencing important business decisions, in a data-driven way. Seeking opportunities where I can utilize my analytical, mathematical, and technical skills to solve real-life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions.</h3>
+<h3 align="center">Who is Passionate To become a Software tester where I have to use my skills and knowledge for the development of the project, where strong project management and analytical skill will be useful in the delivery of the services to the customer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 
 ## 🌐 Socials:
